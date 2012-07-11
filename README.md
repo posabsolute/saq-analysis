@@ -2,7 +2,6 @@
 
 ## Prologue
 
-
 There are some things in this world you have no choice to live with, for us Quebec citizens, the SAQ is one of them. You see, in Quebec selling alcohol is illegal, only our government can do that. As you can guess, since they are the only one selling imported wines and hard liquors, they have all the market, meaning they don't necessary have to care, you will buy their products either way, guaranteed.
 
 Just to put you in context, they pocketed in 2011 one billion (you heard that right) in profit. You would think that with that money they would have a decent website... Well you would have guessed wrong, the SAQ.com is a combination of bad user interaction, bad design, and refreshed sections that looks  ok but  inconsistent with the brand.
@@ -13,7 +12,7 @@ The website would need to be teared down & rebuild, but in this guide I will onl
 
 ### How did we got there?
 
-The saq.com has a long history and it is pretty hard to make sense of it all. It was first managed by Cognicase at a cost of 7,6 millions from 2000 to 2006. Why all that money? Well they integrated e-commerce. In 2006 Nurun got the contract for a whooping 2,6 millions. The goal? Make the online inventory in real time. We can all agree this is a lot of bacon, but at the very least the site still works. 
+The saq.com has a long history and it is pretty hard to make sense of it all. It was first managed by Cognicase at a cost of 7,6 millions from 2000 to 2006. Why all that money? Well they integrated e-commerce (to be fair it was not a great time for e-commerce websites). In 2006 Nurun got the contract for a whooping 2,6 millions. The goal? Make the online inventory in real time. We can all agree this is a lot of bacon, but at the very least the site still works. 
 
 While the SAQ is in the public domain and we do have access to their annual reports, I can only guess what is happening internally that make them so change resistant. But like any big organization (more than 5000 employes) changes is necessary slow. Having work on a 1 million contract I can picture easily the endless lines of directors, project managers & vice-presidents meetings just to change a wording on the website.
 
@@ -164,7 +163,7 @@ For some reasons they decided to only show the colour of the profile taste. I gu
 
 Expert reviews is one of the most helpful thing that can help the average user choose a wine. If a wine has a score of 50, most people will not buy it, getting the one with a score of 75 instead for the same price. Contact experts, compile their scores, links to their blog reviews, other websites has now been doing this for some time.
 
-While adding external reviews this would be a big project itself, I think it would also be one of the most beneficial addition to the site. It's hard to find scores for wines you want using other websites, chances are the SAQ do not carry the wine they just review.
+While adding external reviews this would be a big project itself, I think it would also be a beneficial addition to the site. It's hard to find scores for wines you want using other websites, chances are the SAQ do not carry the wine they just reviewed.
 
 Imagine having all François Chartier scores and reviews right at your fingertip in the results page. Awesome.
 
