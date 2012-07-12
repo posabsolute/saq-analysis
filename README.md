@@ -2,7 +2,7 @@
 
 ## Prologue
 
-* Reading directly from the readme.md? You can read a ![prettier version here](http://posabsolute.github.com/saq-analysis/).
+* Reading directly from the readme.md? You can read a [prettier version here](http://posabsolute.github.com/saq-analysis/).
 
 There are some things in this world you have no choice to live with, for us Quebec citizens, the SAQ is one of them. You see, in Quebec selling alcohol is illegal, only our government can do that. As you can guess, since they are the only one selling imported wines and hard liquors, they have all the market, meaning they don't necessary have to care, you will buy their products either way, guaranteed.
 
