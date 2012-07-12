@@ -2,6 +2,8 @@
 
 ## Prologue
 
+* Reading directly from the readme.md? You can read a ![prettier version here](http://posabsolute.github.com/saq-analysis/).
+
 There are some things in this world you have no choice to live with, for us Quebec citizens, the SAQ is one of them. You see, in Quebec selling alcohol is illegal, only our government can do that. As you can guess, since they are the only one selling imported wines and hard liquors, they have all the market, meaning they don't necessary have to care, you will buy their products either way, guaranteed.
 
 Just to put you in context, they pocketed in 2011 one billion (you heard that right) in profit. You would think that with that money they would have a decent website... Well you would have guessed wrong, the SAQ.com is a combination of bad user interaction, bad design, and refreshed sections that looks  ok but  inconsistent with the brand.
