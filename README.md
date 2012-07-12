@@ -19,7 +19,7 @@ While the SAQ is in the public domain and we do have access to their annual repo
 ![ISAQ](http://i.imgur.com/Zzmc6.png)
 
 
-It is also mind boggling that a company that probably got a graphic identity standards book of more than 100 pages got content like [http://www.saq.com/webapp/wcs/stores/servlet/CatalogSearchResultView?searchType=700&viewTaskName=NouvelArrivageResultView&langId=-2&storeId=10001&catalogId=10001](this page) that are totally off their brand (maybe in that case "La Presse" paid for it since it match their branding better than the SAQ.)
+It is also mind boggling that a company that probably got a graphic identity standards book of more than 100 pages got content like [this page](http://www.saq.com/webapp/wcs/stores/servlet/CatalogSearchResultView?searchType=700&viewTaskName=NouvelArrivageResultView&langId=-2&storeId=10001&catalogId=10001) that are totally off their brand (maybe in that case "La Presse" paid for it since it match their branding better than the SAQ.)
 
 ### There is hope
 
