@@ -106,7 +106,7 @@ The products page should be one of the website core. When you click on that page
 
 Instead you are stuck with this boring page:
 
-![ISAQ](http://i.imgur.com/GbBhG.jpg)
+![product page](http://i.imgur.com/GbBhG.jpg)
 
 
 
@@ -116,7 +116,7 @@ When you are in the products page, only the *online* inventory shows up in your 
 
 It is even hard to realize taht this option is on, and for good reasons, it blends very well with the page. The online button at the top is not even in a selected behaviour, it's exactly the same as the outlet products button.
 
-![ISAQ](http://i.imgur.com/ahhwR.png)
+![online product always selected](http://i.imgur.com/ahhwR.png)
 
 That creates an issue where you can't shop for both at the same time, it"s either online or outlet. We need to make this clearer, we  need to remove the default selected option & add a third option, *All Products*.
 
@@ -131,7 +131,7 @@ Beside that since this is just an oveview it would go beyont the scope of this d
 
 The search results page is where users will spend most of their time on. Like the search form, it is somewhat usable, but is missing finesse. It looks somewhat ike an internal product inventory application (which is probably not far from the truth).
 
-![ISAQ] (http://i.imgur.com/l0bvs.png)
+![search results](http://i.imgur.com/l0bvs.png)
 
 
 ### Issue: Advanced options are not helping
@@ -140,14 +140,14 @@ If you drill in one category, like white wine, you will be shown a link that is 
 
 It's also interesting to note that your last drill cannot be changed because it has become a breadcrumb with no link in it.
 
-![Search results] (http://i.imgur.com/ByH5h.png)
+![Search results2](http://i.imgur.com/ByH5h.png)
 
 If we had some nice permalinks like ( /whitewine/bordeaux/ ) the breadcrumb would certainly have a great use, but in it's current form it is completely inappropriate. Also puzzling is the meal wine category that appear here, it seems to appear by magic and there is no way to remove it.
 
 
 ### Recommendation: Better present the result items
 
-![Search Prototype] (http://i.imgur.com/KBBCR.png)
+![Search Prototype](http://i.imgur.com/KBBCR.png)
 
 Key ideas :
 
@@ -177,7 +177,7 @@ If you are just browsing through wines without a precise pick you will probably 
 
 Beside being not very appealing visually I find this page well construct for the most part. Information is clear, direct online availability is also a nice touch.
 
-![ISAQ] (http://i.imgur.com/ohC5C.png)
+![product page2](http://i.imgur.com/ohC5C.png)
 
 
 ### Recommendation: Remove anchored links from details
